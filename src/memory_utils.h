@@ -2,7 +2,6 @@
 
 #include <memory/alignment.h>
 #include <memory/memory_address.h>
-#include <spdlog/spdlog.h>
 
 
 namespace memory

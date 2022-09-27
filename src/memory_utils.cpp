@@ -1,5 +1,7 @@
 #include "memory_utils.h"
 
+#include <spdlog/spdlog.h>
+
 namespace memory
 {
     void print_memory(memory_address begin, memory_address end)
