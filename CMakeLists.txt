@@ -5,6 +5,8 @@ project(memory)
 file(GLOB SOURCES
     "src/*.h"
     "src/*.cpp"
+    "src/pmr/*.h"
+    "src/pmr/*.cpp"
 )
 
 set(CMAKE_CXX_STANDARD 17)
